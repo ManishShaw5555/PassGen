@@ -1,1 +1,1 @@
-https://manishshaw5555.github.io/PassGen/
+https://manishshw.github.io/PassGen/
